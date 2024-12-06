@@ -1,0 +1,6 @@
+print("olá, mundo!")
+print("tudo bem?")
+print("coisa lindinha")
+print("estou em aula")
+print("quero a minha casa")
+print("amo minha cama")
